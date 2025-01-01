@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Himanshu-sharma05
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning DSA
+- 👀 I’m interested in programming
+- 🌱 I'm currently learning backend development
 - 💞️ I’m looking to collaborate on Frontend projects
   
 
