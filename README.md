@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Himanshu-sharma05
 - 👀 I’m interested in programming
-- 🌱 I'm currently learning backend development
+- 🌱 I'm currently learning TypeScript
 - 💞️ I’m looking to collaborate on Frontend projects
   
 
