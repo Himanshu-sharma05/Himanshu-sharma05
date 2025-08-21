@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Himanshu-sharma05
-- 👀 I’m interested in programming
-- 🌱 I'm currently learning TypeScript
-- 💞️ I’m looking to collaborate on Frontend projects
+- 👀 I’m interested in Computer Science
+- 🌱 I'm currently learning Prisma ORM 
+- 💞️ I’m looking to collaborate on Full Stack projects
   
 
 <!---
