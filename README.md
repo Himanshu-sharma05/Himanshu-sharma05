@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Himanshu-sharma05
 - 👀 I’m interested in Computer Science
 - 🌱 I'm currently Creating Agentic Ai projects
-- 😸 Working on my First SAAS startup
 - 💞️ I’m looking to collaborate on Full Stack projects
 
   
